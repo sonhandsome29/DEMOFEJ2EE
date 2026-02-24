@@ -1,0 +1,4 @@
+com\edulearn\service\AuthServiceTest.class
+com\edulearn\service\CourseServiceTest.class
+com\edulearn\service\PasswordResetServiceTest.class
+com\edulearn\service\OrderServiceTest.class
